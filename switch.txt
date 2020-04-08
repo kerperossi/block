@@ -3,7 +3,13 @@
 #conntest.nintendowifi.net/95.216.149.205
 #ctest.cdn.nintendo.net/95.216.149.205
 90dns.test/95.216.149.205
-
+nintendo.jp
+nintendo.tw
+nintendo.cz
+nintendo.fi
+nintendo.hu
+nintendo.se
+potato.nintendo.com
 nintendo.com/127.0.0.1
 nintendo.net/127.0.0.1
 nintendo.jp/127.0.0.1
